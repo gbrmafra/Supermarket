@@ -1,0 +1,6 @@
+c preta;30
+tenis adidas;260
+sapatenis;99.9
+blusa branca;70
+blusa preta;89.9
+ovos mexidos;4.99
